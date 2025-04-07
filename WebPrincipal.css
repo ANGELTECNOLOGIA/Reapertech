@@ -180,7 +180,7 @@ a {
     text-align: center;
     position: relative;
 }
-@media(max-width: 360px) {
+@media(max-width: 750px) {
     * {
         margin: 0;
         padding: 0;
